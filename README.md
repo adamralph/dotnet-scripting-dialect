@@ -1,4 +1,4 @@
-# dotnet-scripting
+# .NET scripting "dialects"
 Draft proposal for .NET scripting "dialects"
 
 A scripting "dialect" defines the following expectations by a given script:
