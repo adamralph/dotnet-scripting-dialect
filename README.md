@@ -1,5 +1,8 @@
 # .NET scripting "dialects"
-Draft proposal for .NET scripting "dialects"
+
+[![Gitter chat](https://badges.gitter.im/dotnet-scripting/general.png)](https://gitter.im/dotnet-scripting/general)
+
+A draft proposal for .NET scripting "dialects".
 
 A scripting "dialect" defines the following expectations by a given script:
 
